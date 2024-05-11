@@ -1,5 +1,5 @@
-#**Help Hair**
-##**Desafio Alura**
+#**Help Hair
+#*Desafio Alura
 
 Solucionamos a dificuldade na escolha de cosméticos capilares adequados às necessidades individuais de cada cliente, oferecendo recomendações personalizadas a partir da análise de seus dados.
 
